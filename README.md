@@ -1,9 +1,15 @@
 ### 📈 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=winsphinx&theme=transparent)
+<p align="center">
+  <img src="profile-summary-card-output/transparent/0-profile-details.svg" />
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=winsphinx&theme=transparent)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=winsphinx&theme=transparent)
+<p align="center">
+  <img src="profile-summary-card-output/transparent/1-repos-per-language.svg" />
+  <img src="profile-summary-card-output/transparent/2-most-commit-language.svg" />
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=winsphinx&theme=transparent)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=winsphinx&theme=transparent&utcOffset=8)
+<p align="center">
+  <img src="profile-summary-card-output/transparent/3-stats.svg" />
+  <img src="profile-summary-card-output/transparent/4-productive-time.svg" />
+</p>
