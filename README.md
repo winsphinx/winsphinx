@@ -1,9 +1,7 @@
 ### 📈 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=winsphinx&theme=transparent)
+![](https://raw.githubusercontent.com/winsphinx/winsphinx/master/profile-summary-card-output/transparent/0-profile-details.svg)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=winsphinx&theme=transparent)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=winsphinx&theme=transparent)
+![](https://raw.githubusercontent.com/winsphinx/winsphinx/master/profile-summary-card-output/transparent/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/winsphinx/winsphinx/master/profile-summary-card-output/transparent/2-most-commit-language.svg)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=winsphinx&theme=transparent)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=winsphinx&theme=transparent&utcOffset=8)
+![](https://raw.githubusercontent.com/winsphinx/winsphinx/master/profile-summary-card-output/transparent/3-stats.svg) ![](https://raw.githubusercontent.com/winsphinx/winsphinx/master/profile-summary-card-output/transparent/4-productive-time.svg)
